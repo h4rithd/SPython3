@@ -9,8 +9,7 @@ To use SPython3, simply run the `spython3.py` file with Python3. The server will
 git clone https://github.com/h4rithd/SPython3 && cd SPython
 python3 spython3.py or python3 spython3.py [-i IP] [-p PORT]
 ```
-
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/h4rithd/SPython3/master/ScreenRecord.gif))
+![ScreenRecord](ScreenRecord.gif)
 
 ---
 
