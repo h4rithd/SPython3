@@ -6,8 +6,13 @@ SPython3 is a simple HTTPS server written in Python 3, designed to check XSS vul
 To use SPython3, simply run the `spython3.py` file with Python3. The server will start listening on the default port of 443, and logs will be output to the terminal in a tabulated format. You can also specify a different IP address and port to listen on using the `-i` and `-p` options, respectively.
 
 ```
-python3 spython3.py [-i IP] [-p PORT]
+git clone https://github.com/h4rithd/SPython3 && cd SPython
+python3 spython3.py or python3 spython3.py [-i IP] [-p PORT]
 ```
+
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/h4rithd/SPython3/master/ScreenRecord.gif))
+
+---
 
 ### Features
 * Generates self-signed SSL certificates if none are found in the system's temporary directory
