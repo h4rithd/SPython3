@@ -1,5 +1,4 @@
-argparse==1.4.0
-http.server==0.5
-OpenSSL==21.0.0
-prettytable==2.2.1
-tabulate==0.8.9
+argparse
+OpenSSL
+prettytable
+tabulate
