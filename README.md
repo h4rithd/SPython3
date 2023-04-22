@@ -25,4 +25,5 @@ SPython3 is licensed under the MIT `License`. See the LICENSE file for more info
 
 ### Acknowledgements
 SPython3 was created by Harith Dilshan. If you find any bugs or have any suggestions for improvement, please feel free to open an issue or pull request on the project's GitHub page.
+
 ---
